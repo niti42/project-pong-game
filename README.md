@@ -1,3 +1,3 @@
 # Pong
 
-Python version of classic pong gam
+Python version of classic pong game
